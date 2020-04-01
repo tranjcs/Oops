@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "Oops"
+sh -c "echo Oops"
