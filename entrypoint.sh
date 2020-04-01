@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-sh "echo Oops"
+echo "Oops"
