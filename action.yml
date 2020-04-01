@@ -1,0 +1,11 @@
+name: "Oops"
+description: "Remove all passwords and secrets"
+author: "tranjcs@github.com"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "lock"
+  color: "gray-dark"

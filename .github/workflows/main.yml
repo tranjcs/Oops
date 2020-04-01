@@ -1,0 +1,10 @@
+name: Oops
+on: push
+jobs:
+  build:
+    name: oops
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: ./
+
