@@ -1,1 +1,1 @@
-# Oops
+# Oops (Omit Outstanding Passwords & Secrets)
